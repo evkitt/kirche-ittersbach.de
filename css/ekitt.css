@@ -1,0 +1,103 @@
+.nav {  background-color: #ffffff;
+        background-position: bottom}
+p.nav {text-align:center}
+table.nav {background-color: #f4f4f4; padding:0px margin:0px; line-height:1em}
+tr.nav { padding:0px; background-color: #ffefc6; padding:0px margin:0px; line-height:1em}
+td.nav { width:153; padding:0px margin:0px; background-color: #ffefc6; padding:0px margin:0px; line-height:1em}
+tr.navtop { height:15; vertical-align:bottom; background-color:#ff8000;}
+td.navtop { width:175; font-weight: bold; color:#f4f4f4; padding-top:3px }
+
+.losung { background-color: #ffffff;
+          background-position: bottom;
+          font-family: Hyena;
+          font-size: 40;
+          color: #000040}
+p.losung {text-align:center}
+div.losung {text-align:right; font-size: 20}
+
+
+table.lay {background-color: #ffffff; padding:10px}
+a {  font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: 12px;
+     color: #ff8000;
+     text-decoration: none;
+     font-weight: normal}
+a:hover {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; text-decoration: none}
+body {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;
+        background-color:#ffffff;
+        background-attachment: fixed;
+        background-repeat: repeat;
+        background-position: left bottom;}
+table {padding:5px; margin:5px; vertical-align:top; line-height:1.5em; background-color:#f4f4f4}
+thead {text-align:center}
+tr {  vertical-align:top; line-height:1.5em;}
+td {  font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: 12px;
+      color: #000000;
+      vertical-align:top}
+input {  border: 2px #ffefc6 ridge;
+         font-family: Verdana, Arial, Helvetica, sans-serif;
+         font-size: 10px;
+         color: #000000;
+         text-decoration: none}
+.alayer {  font-family: Verdana, Arial, Helvetica, sans-serif;
+           font-size: 12px;
+           color: #000099;
+           text-decoration: none}
+h1 {  font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: 14px;
+      font-weight: bolder;
+      text-align:center;
+      text-decoration: none;
+      color: #ff8000}
+i {   font-family: Verdana, Arial, Helvetica, sans-serif;
+      color: #ff8000}
+li {  font-family: Verdana, Arial, Helvetica, sans-serif}
+.zellenblau {  background-color: #EAEDF6}
+.zellengruen {  background-color: #ffefc6}
+.zelledunkel {background-color: #e1fbcf; color: #EAEDF6 }
+
+p {text-align:left; font-weight:normal}
+hr {  color: #ff8000; border-style: solid}
+select { border: 2px #ffefc6 ridge; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; background-color: #ccff00: #99cc66; scrollbar-face-color: #CCE566; scrollbar-base-color:#CCE566;}
+form {scrollbar-face-color: #CCE566; scrollbar-base-color: #CCE566;}
+.menue {  background-color: #CCCCCC; text-align: left; padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px; color: #000099; font-family: Verdana, Arial, Helvetica, sans-serif}
+.bibelstelle {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #000000; text-decoration: none}
+.fett {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none}
+.tdmenue {  font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; color: #000099}
+ul {  list-style-image: url(../images/ul.gif)}
+.schwarz {  border: thin #000000 dashed}
+h2 {  font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: 12px;
+      font-weight: bold;
+      text-decoration: none;
+      text-align:center;
+      color: #ff8000}
+h3 {  font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: 12px;
+      font-weight: bold;
+      text-decoration: none;
+      text-align:left}
+h4 {  font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: 12px;
+      font-weight: bold;
+      text-decoration: none;
+      text-align:left;
+      color: #ff8000}
+.zellengrau { background-color: #CCCCCC}
+.zellenf  {  color: #CCE566;}
+
+.oase.table {padding:10px; margin:0px; width:600px; text-align:center; vertical-align:top}
+.oase.td {text-align:left; vertical-align:top}
+
+.termintable {padding:5px; margin:0px; table-layout:fixed; width:800px; text-align:left; vertical-align:top; line-height:1.5em;}
+
+.time {width:120px; text-align:right; vertical-align:top; font-weight: bold}
+.date {width:120px; text-align:right; vertical-align:top; font-weight: bold}
+
+.termintable1 {padding:5px; margin:1px; table-layout:auto; text-align:left; vertical-align:top; line-height:1.1em;}
+.thead1 {text-align:left; vertical-align:top; background-color: #f4f4f4; font-weight: bold;}
+.date1 {width:60px; text-align:right; vertical-align:top; background-color: #ffefc6; font-weight: bold}
+.time1 {width:120px; text-align:left; vertical-align:top;  }
+.loc1 {width:180px; text-align:left; vertical-align:top; background-color: #ffefc6}
+.subject1 {text-align:left; vertical-align:top}

@@ -1,0 +1,31 @@
+<html>
+
+<head>
+<meta name="robots" content="index">
+<meta name="keywords" content="Losung, Tageslosung, Herrnhuter-Losung, Herrnhut, Bibel">
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+<meta name="description" content="Automatische Weiterleitung zur aktuellen Tageslosung der Herrnhuter Br&uuml;dergemeine">
+<meta name="author" content="Peter Baumann">
+<title>Herrnhuter Losung</title>
+
+<script language="JavaScript">
+<!--
+{
+var datei = "", d = new Date(), dm = d.getMonth() + 1, dj = d.getYear(), dt = d.getDate();
+if(dm<10) {dm="0"+String(dm)};
+if(dt<10) {dt="0"+String(dt)};
+datei=String(dj);
+datei=datei.substr(datei.length-2,2);
+datei="20"+datei+"/"+dm+dt+".html";
+window.document.location.replace(datei);
+}
+
+//-->
+</script>
+</head>
+
+<body bgcolor="#ffffff">
+<p></p>
+</body>
+
+</html>
